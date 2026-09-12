@@ -4,6 +4,10 @@ utils.py - Helper utilities for date parsing, string sanitization, and FX conver
 
 from datetime import datetime, date
 from typing import Dict, List, Optional, Set, Tuple
+from dotenv import load_dotenv
+
+# Automatically load environment variables from local .env file
+load_dotenv()
 
 
 def parse_date(date_str: str) -> Optional[date]:
