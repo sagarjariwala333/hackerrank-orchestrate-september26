@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15655985.08,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,Pay IDR 15656000 in full on 2025-08-03.
+request_27,6670,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,Pay ZAR 6670 in full on 2026-07-05.
+request_28,689.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15. No safe payment plan is available within minimum balance limits.
+request_29,51523.96,affordable_now,full_payment,2025-11-04:51524,2025-11-04,none,Pay ZAR 51524 in full on 2025-11-04.
+request_30,775.2,affordable_with_plan,installments,2026-04-06:775.2,2026-04-06,none,Use 1 installments of USD 775.2.
+request_31,13840345.91,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. No safe payment plan is available within minimum balance limits.
+request_32,33305.79,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-15. No safe payment plan is available within minimum balance limits.
+request_33,65179.91,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-15. No safe payment plan is available within minimum balance limits.
+request_34,129399.88,affordable_now,full_payment,2024-12-04:129400,2024-12-04,none,Pay INR 129400 in full on 2024-12-04.
+request_35,125129.98,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. No safe payment plan is available within minimum balance limits.
+request_36,1446.6,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-15. No safe payment plan is available within minimum balance limits.
+request_37,12068797.46,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-15. No safe payment plan is available within minimum balance limits.
+request_38,379.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-15. No safe payment plan is available within minimum balance limits.
+request_39,203104.99,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-15. No safe payment plan is available within minimum balance limits.
+request_40,851,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15. No safe payment plan is available within minimum balance limits.
+request_41,21888922.82,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. No safe payment plan is available within minimum balance limits.
+request_42,52099.96,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,Pay INR 52100 in full on 2026-01-05.
+request_43,13988740.82,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. No safe payment plan is available within minimum balance limits.
+request_44,74560,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-15. No safe payment plan is available within minimum balance limits.
+request_45,8833087.29,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-15. No safe payment plan is available within minimum balance limits.
+request_46,49449.96,affordable_with_plan,installments,2024-12-03:49450,2024-12-03,none,Use 1 installments of INR 49450.
+request_47,38113963.66,affordable_now,full_payment,2025-05-05:38114000,2025-05-05,none,Pay IDR 38114000 in full on 2025-05-05.
+request_48,45699.97,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,Pay INR 45700 in full on 2026-07-25.
+request_49,20228775.09,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-22. No safe payment plan is available within minimum balance limits.
+request_50,43899.97,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,Pay INR 43900 in full on 2025-08-06.
+request_51,2190997.92,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,Pay IDR 2191000 in full on 2026-01-03.
+request_52,28869.99,affordable_now,full_payment,2024-06-05:28870,2024-06-05,none,Pay INR 28870 in full on 2024-06-05.
+request_53,1423.42,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-20. No safe payment plan is available within minimum balance limits.
+request_54,16581.31,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-21. No safe payment plan is available within minimum balance limits.
+request_55,176241.18,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-22. No safe payment plan is available within minimum balance limits.
+request_56,881.56,affordable_with_plan,installments,2025-02-03:881.56,2025-02-03,none,Use 1 installments of USD 881.56.
+request_57,21214.55,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-15. No safe payment plan is available within minimum balance limits.
+request_58,16225984.54,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,Pay IDR 16226000 in full on 2024-12-07.
+request_59,140599.88,affordable_with_plan,installments,2025-05-04:140600,2025-05-04,none,Use 1 installments of INR 140600.
+request_60,199.89,affordable_now,full_payment,2026-01-06:199.89,2026-01-06,none,Pay USD 199.89 in full on 2026-01-06.
+request_61,29061.98,affordable_with_plan,installments,2024-03-03:29062,2024-03-03,none,Use 1 installments of ZAR 29062.
+request_62,404.23,affordable_now,full_payment,2025-08-05:404.23,2025-08-05,none,Pay USD 404.23 in full on 2025-08-05.
+request_63,90144.79,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-17. No safe payment plan is available within minimum balance limits.
+request_64,0,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-16. No safe payment plan is available within minimum balance limits.
+request_65,13023.98,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-11-25. No safe payment plan is available within minimum balance limits.
+request_66,22199.99,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,Pay INR 22200 in full on 2026-04-03.
+request_67,792.54,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. No safe payment plan is available within minimum balance limits.
+request_68,2091.6,affordable_with_plan,installments,2025-02-07:2091.6,2025-02-07,none,Use 1 installments of USD 2091.6.
+request_69,529.1,affordable_now,full_payment,2026-01-04:529.1,2026-01-04,none,Pay EUR 529.1 in full on 2026-01-04.
+request_70,93359.82,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-15. No safe payment plan is available within minimum balance limits.
+request_71,7485048.33,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-05-28. No safe payment plan is available within minimum balance limits.
+request_72,11330,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,Pay ZAR 11330 in full on 2026-07-05.
+request_73,71399.95,affordable_now,full_payment,2023-01-20:71400,2023-01-20,none,Pay INR 71400 in full on 2023-01-20.
+request_74,5010,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,Pay ZAR 5010 in full on 2025-08-04.
+request_75,28269.99,affordable_with_plan,installments,2026-04-06:28270,2026-04-06,none,Use 1 installments of ZAR 28270.
+request_76,1538.8,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-30. No safe payment plan is available within minimum balance limits.
+request_77,60699.96,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,Pay INR 60700 in full on 2025-11-05.
+request_78,50199.96,affordable_now,full_payment,2025-10-02:50200,2025-10-02,none,Pay INR 50200 in full on 2025-10-02.
+request_79,1104.08,affordable_with_plan,partial_payment,2024-09-04:1104.08|2024-09-04:1047.52,,none,Pay EUR 1104.08 today and remainder on 2024-09-04.
+request_80,152114.94,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-21. No safe payment plan is available within minimum balance limits.
+request_81,2076,affordable_now,full_payment,2026-07-03:2076,2026-07-03,none,Pay USD 2076 in full on 2026-07-03.
+request_82,1011.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-15. No safe payment plan is available within minimum balance limits.
+request_83,28329.94,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-17. No safe payment plan is available within minimum balance limits.
+request_84,56564.97,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-15. No safe payment plan is available within minimum balance limits.
+request_85,2422112.81,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-04-26. No safe payment plan is available within minimum balance limits.
+request_86,46299.97,affordable_now,full_payment,2025-08-03:46300,2025-08-03,none,Pay INR 46300 in full on 2025-08-03.
+request_87,92849.68,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-15. No safe payment plan is available within minimum balance limits.
+request_88,15557.88,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-25. No safe payment plan is available within minimum balance limits.
+request_89,13755986.89,affordable_with_plan,installments,2025-11-04:13756000,2025-11-04,none,Use 1 installments of IDR 13756000.
+request_90,2560,affordable_now,full_payment,2026-07-06:2560,2026-07-06,none,Pay ZAR 2560 in full on 2026-07-06.
+request_91,1927.2,affordable_now,full_payment,2024-09-03:1927.2,2024-09-03,none,Pay EUR 1927.2 in full on 2024-09-03.
+request_92,34033.98,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,Pay ZAR 34034 in full on 2025-02-05.
+request_93,1729.2,affordable_now,full_payment,2026-04-07:1729.2,2026-04-07,none,Pay USD 1729.2 in full on 2026-04-07.
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,Pay EUR 572 in full on 2024-12-04.
+request_95,137864.99,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-14. No safe payment plan is available within minimum balance limits.
+request_96,90199.92,affordable_with_plan,installments,2026-01-03:90200,2026-01-03,none,Use 1 installments of INR 90200.
+request_97,8865.89,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-24. No safe payment plan is available within minimum balance limits.
+request_98,17244.69,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-15. No safe payment plan is available within minimum balance limits.
+request_99,18061.99,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,Pay ZAR 18062 in full on 2026-07-04.
+request_100,34836.12,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-16. No safe payment plan is available within minimum balance limits.
+request_101,143499.88,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,Pay INR 143500 in full on 2025-11-03.
+request_102,1716,affordable_with_plan,installments,2026-04-05:1716,2026-04-05,none,Use 1 installments of EUR 1716.
+request_103,35758.86,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-10-07. No safe payment plan is available within minimum balance limits.
+request_104,17203.99,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,Pay ZAR 17204 in full on 2025-02-04.
+request_105,53499.96,affordable_now,full_payment,2026-06-08:53500,2026-06-08,none,Pay INR 53500 in full on 2026-06-08.
+request_106,1401.69,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-15. No safe payment plan is available within minimum balance limits.
+request_107,2534.4,affordable_with_plan,installments,2025-05-05:2534.4,2025-05-05,none,Use 1 installments of EUR 2534.4.
+request_108,7836.38,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-07-26. No safe payment plan is available within minimum balance limits.
+request_109,1276.46,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-26. No safe payment plan is available within minimum balance limits.
+request_110,22351.99,affordable_with_plan,installments,2025-08-06:22352,2025-08-06,none,Use 1 installments of ZAR 22352.
+request_111,16624984.16,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,Pay IDR 16625000 in full on 2026-04-03.
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.7,2024-06-05,none,Pay EUR 271.7 in full on 2024-06-05.
+request_113,36499.98,affordable_now,full_payment,2026-09-04:36500,2026-09-04,none,Pay INR 36500 in full on 2026-09-04.
+request_114,65299.95,affordable_now,full_payment,2026-01-04:65300,2026-01-04,none,Pay INR 65300 in full on 2026-01-04.
+request_115,27134.94,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. No safe payment plan is available within minimum balance limits.
+request_116,58074.95,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-16. No safe payment plan is available within minimum balance limits.
+request_117,880,affordable_now,full_payment,2026-07-05:880,2026-07-05,none,Pay EUR 880 in full on 2026-07-05.
+request_118,738.1,affordable_with_plan,installments,2024-12-07:738.1,2024-12-07,none,Use 1 installments of EUR 738.1.
+request_119,130900.9,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-17. No safe payment plan is available within minimum balance limits.
+request_120,7713992.65,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Pay IDR 7714000 in full on 2026-04-06.
+request_121,633.6,affordable_now,full_payment,2024-03-03:633.6,2024-03-03,none,Pay USD 633.6 in full on 2024-03-03.
+request_122,20557980.41,affordable_with_plan,installments,2025-08-05:20558000,2025-08-05,none,Use 1 installments of IDR 20558000.
+request_123,4075996.12,affordable_now,full_payment,2026-01-07:4076000,2026-01-07,none,Pay IDR 4076000 in full on 2026-01-07.
+request_124,2049.56,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-20. No safe payment plan is available within minimum balance limits.
+request_125,6468,affordable_now,full_payment,2025-11-06:6468,2025-11-06,none,Pay ZAR 6468 in full on 2025-11-06.
+request_126,159599.86,affordable_now,full_payment,2026-07-03:159600,2026-07-03,none,Pay INR 159600 in full on 2026-07-03.
+request_127,23979.99,affordable_now,full_payment,2024-09-05:23980,2024-09-05,none,Pay ZAR 23980 in full on 2024-09-05.
+request_128,25167.99,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,Pay ZAR 25168 in full on 2025-02-07.
+request_129,288,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-18. No safe payment plan is available within minimum balance limits.
+request_130,917.46,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-15. No safe payment plan is available within minimum balance limits.
+request_131,1855.2,affordable_with_plan,installments,2025-05-03:1855.2,2025-05-03,none,Use 1 installments of USD 1855.2.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,Pay USD 379.86 in full on 2026-01-05.
+request_133,15769984.97,not_affordable,not_recommended,none,2024-03-07,none,Do not make this payment by 2024-03-29. No safe payment plan is available within minimum balance limits.
+request_134,12118189.52,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-15. No safe payment plan is available within minimum balance limits.
+request_135,304.8,affordable_now,full_payment,2026-07-06:304.8,2026-07-06,none,Pay USD 304.8 in full on 2026-07-06.
+request_136,560.4,affordable_now,full_payment,2024-06-03:560.4,2024-06-03,none,Pay USD 560.4 in full on 2024-06-03.
+request_137,67959.99,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. No safe payment plan is available within minimum balance limits.
+request_138,1209.9,affordable_with_plan,partial_payment,2026-04-07:1209.9|2026-04-07:47.04,,none,Pay EUR 1209.9 today and remainder on 2026-04-07.
+request_139,2185.84,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-17. No safe payment plan is available within minimum balance limits.
+request_140,11074.75,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-03-04. No safe payment plan is available within minimum balance limits.
+request_141,51434.88,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-02-12. No safe payment plan is available within minimum balance limits.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.6,2024-12-05,none,Pay USD 1263.6 in full on 2024-12-05.
+request_143,8384.2,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-15. No safe payment plan is available within minimum balance limits.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,Pay USD 233.34 in full on 2026-07-04.
+request_145,105613.48,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-26. No safe payment plan is available within minimum balance limits.
+request_146,81464.71,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-17. No safe payment plan is available within minimum balance limits.
+request_147,741.53,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-07. No safe payment plan is available within minimum balance limits.
+request_148,13181.08,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-18. No safe payment plan is available within minimum balance limits.
+request_149,36651.98,affordable_with_plan,installments,2025-11-04:36652,2025-11-04,none,Use 1 installments of ZAR 36652.
+request_150,496.1,affordable_with_plan,installments,2026-01-06:496.1,2026-01-06,none,Use 1 installments of EUR 496.1.
+request_151,26998974.27,affordable_now,full_payment,2024-09-03:26999000,2024-09-03,none,Pay IDR 26999000 in full on 2024-09-03.
+request_152,13881.99,affordable_with_plan,installments,2025-02-05:13882,2025-02-05,none,Use 1 installments of ZAR 13882.
+request_153,503.6,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-24. No safe payment plan is available within minimum balance limits.
+request_154,1625.8,affordable_with_plan,installments,2024-12-04:1625.8,2024-12-04,none,Use 1 installments of EUR 1625.8.
+request_155,112499.9,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,Pay INR 112500 in full on 2025-05-06.
+request_156,13588.26,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-15. No safe payment plan is available within minimum balance limits.
+request_157,10091840,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-15. No safe payment plan is available within minimum balance limits.
+request_158,242599.78,affordable_with_plan,installments,2025-08-07:242600,2025-08-07,none,Use 1 installments of INR 242600.
+request_159,13398,affordable_now,full_payment,2026-01-04:13398,2026-01-04,none,Pay ZAR 13398 in full on 2026-01-04.
+request_160,857.61,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-20. No safe payment plan is available within minimum balance limits.
+request_161,17241535.66,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. No safe payment plan is available within minimum balance limits.
+request_162,8601223.9,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-26. No safe payment plan is available within minimum balance limits.
+request_163,19303981.6,affordable_with_plan,installments,2024-09-07:19304000,2024-09-07,none,Use 1 installments of IDR 19304000.
+request_164,27017974.25,affordable_with_plan,installments,2025-02-04:27018000,2025-02-04,none,Use 1 installments of IDR 27018000.
+request_165,80599.93,affordable_now,full_payment,2026-04-06:80600,2026-04-06,none,Pay INR 80600 in full on 2026-04-06.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:2907.6,2024-12-03,none,Use 1 installments of USD 2907.6.
+request_167,43801.97,affordable_now,full_payment,2025-05-05:43802,2025-05-05,none,Pay ZAR 43802 in full on 2025-05-05.
+request_168,49379.96,affordable_with_plan,partial_payment,2026-01-07:49379.96|2026-01-07:0.04,2026-01-07,none,Pay INR 49379.96 today and remainder on 2026-01-07.
+request_169,41975.97,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,Pay ZAR 41976 in full on 2024-03-04.
+request_170,36935964.78,affordable_with_plan,installments,2025-08-06:36936000,2025-08-06,none,Use 1 installments of IDR 36936000.
+request_171,310.65,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-10. No safe payment plan is available within minimum balance limits.
+request_172,10200,affordable_with_plan,installments,2024-06-05:10200,2024-06-05,none,Use 1 installments of ZAR 10200.
+request_173,83190.43,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-17. No safe payment plan is available within minimum balance limits.
+request_174,1146.2,affordable_with_plan,installments,2026-04-04:1146.2,2026-04-04,none,Use 1 installments of EUR 1146.2.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,Pay EUR 2346.3 in full on 2024-09-06.
+request_176,686.95,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-27. No safe payment plan is available within minimum balance limits.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.6,2026-01-05,none,Pay USD 1017.6 in full on 2026-01-05.
+request_178,2938.1,affordable_with_plan,installments,2024-12-07:2938.1,2024-12-07,none,Use 1 installments of EUR 2938.1.
+request_179,37957225.94,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-07-15. No safe payment plan is available within minimum balance limits.
+request_180,66499.95,affordable_now,full_payment,2026-07-06:66500,2026-07-06,none,Pay INR 66500 in full on 2026-07-06.
+request_181,1141,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-04-07. No safe payment plan is available within minimum balance limits.
+request_182,65713.95,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,Pay ZAR 65714 in full on 2025-08-05.
+request_183,26865974.39,affordable_with_plan,installments,2026-04-07:26866000,2026-04-07,none,Use 1 installments of IDR 26866000.
+request_184,47539.94,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-30. No safe payment plan is available within minimum balance limits.
+request_185,783.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. No safe payment plan is available within minimum balance limits.
+request_186,22863.5,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-15. No safe payment plan is available within minimum balance limits.
+request_187,67434.83,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. No safe payment plan is available within minimum balance limits.
+request_188,585.3,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-03-04. No safe payment plan is available within minimum balance limits.
+request_189,488.4,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,Pay EUR 488.4 in full on 2026-07-04.
+request_190,1555.8,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-15. No safe payment plan is available within minimum balance limits.
+request_191,664.4,affordable_now,full_payment,2025-05-03:664.4,2025-05-03,none,Pay EUR 664.4 in full on 2025-05-03.
+request_192,384.8,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-05-11. No safe payment plan is available within minimum balance limits.
+request_193,310.61,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-28. No safe payment plan is available within minimum balance limits.
+request_194,95029.91,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-23. No safe payment plan is available within minimum balance limits.
+request_195,1170.4,affordable_with_plan,installments,2026-01-06:1170.4,2026-01-06,none,Use 1 installments of EUR 1170.4.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,Pay EUR 762.3 in full on 2024-06-03.
+request_197,50938951.44,affordable_with_plan,installments,2025-11-05:50939000,2025-11-05,none,Use 1 installments of IDR 50939000.
+request_198,185799.83,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,Pay INR 185800 in full on 2026-07-07.
+request_199,23673977.44,affordable_with_plan,installments,2024-09-04:23674000,2024-09-04,none,Use 1 installments of IDR 23674000.
+request_200,21716979.3,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,Pay IDR 21717000 in full on 2025-02-06.
+request_201,23996977.12,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,Pay IDR 23997000 in full on 2026-04-03.
+request_202,123899.89,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,Pay INR 123900 in full on 2024-12-05.
+request_203,1442.1,affordable_with_plan,installments,2025-05-07:1442.1,2025-05-07,none,Use 1 installments of EUR 1442.1.
+request_204,588.74,affordable_now,full_payment,2026-01-04:588.74,2026-01-04,none,Pay EUR 588.74 in full on 2026-01-04.
+request_205,10620989.88,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,Pay IDR 10621000 in full on 2024-03-06.
+request_206,1404.7,affordable_with_plan,installments,2025-08-03:1404.7,2025-08-03,none,Use 1 installments of EUR 1404.7.
+request_207,11830,affordable_now,full_payment,2026-07-05:11830,2026-07-05,none,Pay ZAR 11830 in full on 2026-07-05.
+request_208,4412995.8,affordable_now,full_payment,2024-06-07:4413000,2024-06-07,none,Pay IDR 4413000 in full on 2024-06-07.
+request_209,8625.06,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-11-25. No safe payment plan is available within minimum balance limits.
+request_210,1360.02,affordable_with_plan,installments,2026-04-06:1360.02,2026-04-06,none,Use 1 installments of USD 1360.02.
+request_211,1227.88,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. No safe payment plan is available within minimum balance limits.
+request_212,22343955.43,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-28. No safe payment plan is available within minimum balance limits.
+request_213,3362.4,affordable_with_plan,installments,2026-01-07:3362.4,2026-01-07,none,Use 1 installments of USD 3362.4.
+request_214,69749.95,affordable_with_plan,installments,2024-12-04:69750,2024-12-04,none,Use 1 installments of INR 69750.
+request_215,29985.98,affordable_with_plan,installments,2025-05-06:29986,2025-05-06,none,Use 1 installments of ZAR 29986.
+request_216,1166.8,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-15. No safe payment plan is available within minimum balance limits.
+request_217,31601.97,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-21. No safe payment plan is available within minimum balance limits.
+request_218,37942377.34,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-06. No safe payment plan is available within minimum balance limits.
+request_219,1673.1,affordable_with_plan,installments,2026-04-04:1673.1,2026-04-04,none,Use 1 installments of EUR 1673.1.
+request_220,307.32,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-07-03. No safe payment plan is available within minimum balance limits.
+request_221,109799.9,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,Pay INR 109800 in full on 2025-11-03.
+request_222,34077.98,affordable_now,full_payment,2026-01-05:34078,2026-01-05,none,Pay ZAR 34078 in full on 2026-01-05.
+request_223,898.7,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,Pay EUR 898.7 in full on 2024-09-07.
+request_224,10326990.16,affordable_with_plan,installments,2025-02-04:10327000,2025-02-04,none,Use 1 installments of IDR 10327000.
+request_225,18120454.87,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-21. No safe payment plan is available within minimum balance limits.
+request_226,156999.86,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,Pay INR 157000 in full on 2024-12-03.
+request_227,42754.87,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-20. No safe payment plan is available within minimum balance limits.
+request_228,10557298.21,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-04-30. No safe payment plan is available within minimum balance limits.
+request_229,727.52,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-05-23. No safe payment plan is available within minimum balance limits.
+request_230,3537.6,affordable_now,full_payment,2025-08-06:3537.6,2025-08-06,none,Pay EUR 3537.6 in full on 2025-08-06.
+request_231,35705.98,affordable_with_plan,installments,2026-01-03:35706,2026-01-03,none,Use 1 installments of ZAR 35706.
+request_232,1869.39,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15. No safe payment plan is available within minimum balance limits.
+request_233,6240994.06,affordable_with_plan,installments,2025-11-07:6241000,2025-11-07,none,Use 1 installments of IDR 6241000.
+request_234,528.6,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-15. No safe payment plan is available within minimum balance limits.
+request_235,967.2,affordable_now,full_payment,2024-09-06:967.2,2024-09-06,none,Pay USD 967.2 in full on 2024-09-06.
+request_236,14404805.45,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-02-23. No safe payment plan is available within minimum balance limits.
+request_237,23825977.29,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,Pay IDR 23826000 in full on 2026-04-05.
+request_238,663.6,affordable_with_plan,installments,2024-12-07:663.6,2024-12-07,none,Use 1 installments of USD 663.6.
+request_239,642,affordable_now,full_payment,2025-05-04:642,2025-05-04,none,Pay USD 642 in full on 2025-05-04.
+request_240,37399.96,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-20. No safe payment plan is available within minimum balance limits.
+request_241,21051979.94,affordable_with_plan,installments,2024-03-03:21052000,2024-03-03,none,Use 1 installments of IDR 21052000.
+request_242,369.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-08-25. No safe payment plan is available within minimum balance limits.
+request_243,17467.99,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Pay ZAR 17468 in full on 2026-07-07.
+request_244,49917.96,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,Pay ZAR 49918 in full on 2024-06-04.
+request_245,65759.91,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. No safe payment plan is available within minimum balance limits.
+request_246,64085.95,affordable_with_plan,installments,2026-04-03:64086,2026-04-03,none,Use 1 installments of ZAR 64086.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.3,2024-09-05,none,Pay EUR 1059.3 in full on 2024-09-05.
+request_248,1507.36,affordable_with_plan,partial_payment,2025-02-07:1507.36|2025-02-07:458.24,,none,Pay USD 1507.36 today and remainder on 2025-02-07.
+request_249,342.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-03-15. No safe payment plan is available within minimum balance limits.
+request_250,28819.97,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-01-18. No safe payment plan is available within minimum balance limits.
+request_251,1513.6,affordable_with_plan,installments,2025-05-03:1513.6,2025-05-03,none,Use 1 installments of EUR 1513.6.
+request_252,9110495.64,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-09-15. No safe payment plan is available within minimum balance limits.
+request_253,2143.56,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-06-01. No safe payment plan is available within minimum balance limits.
+request_254,1759.6,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-10-15. No safe payment plan is available within minimum balance limits.
+request_255,3344996.82,affordable_now,full_payment,2026-04-06:3345000,2026-04-06,none,Pay IDR 3345000 in full on 2026-04-06.
+request_256,218699.8,affordable_with_plan,installments,2024-06-03:218700,2024-06-03,none,Use 1 installments of INR 218700.
+request_257,1085.19,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-01-15. No safe payment plan is available within minimum balance limits.
+request_258,1113.6,affordable_now,full_payment,2026-01-07:1113.6,2026-01-07,none,Pay USD 1113.6 in full on 2026-01-07.
+request_259,627.3,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. No safe payment plan is available within minimum balance limits.
+request_260,13522274.67,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-18. No safe payment plan is available within minimum balance limits.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,Pay EUR 1830.4 in full on 2026-07-03.
+request_262,9235991.2,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,Pay IDR 9236000 in full on 2024-12-05.
+request_263,13750,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-06-15. No safe payment plan is available within minimum balance limits.
+request_264,39794.96,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-06-15. No safe payment plan is available within minimum balance limits.
+request_265,45969.97,affordable_now,full_payment,2024-03-06:45970,2024-03-06,none,Pay INR 45970 in full on 2024-03-06.
+request_266,935,affordable_with_plan,installments,2025-08-03:935,2025-08-03,none,Use 1 installments of EUR 935.
+request_267,1925,affordable_with_plan,installments,2026-01-05:1925,2026-01-05,none,Use 1 installments of EUR 1925.
+request_268,1512.52,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-08-15. No safe payment plan is available within minimum balance limits.
+request_269,15489.99,affordable_now,full_payment,2025-11-04:15490,2025-11-04,none,Pay ZAR 15490 in full on 2025-11-04.
+request_270,535.4,not_affordable,not_recommended,none,,none,Do not make this payment by 2026-08-30. No safe payment plan is available within minimum balance limits.
+request_271,84759.98,not_affordable,not_recommended,none,,none,Do not make this payment by 2024-11-15. No safe payment plan is available within minimum balance limits.
+request_272,8815915.84,not_affordable,not_recommended,none,,none,Do not make this payment by 2025-04-10. No safe payment plan is available within minimum balance limits.
+request_273,13372190.89,affordable_with_plan,partial_payment,2026-04-07:13372190.89|2026-04-07:2488809.11,,none,Pay IDR 13372190.89 today and remainder on 2026-04-07.
+request_274,2713.7,affordable_with_plan,installments,2024-12-04:2713.7,2024-12-04,none,Use 1 installments of EUR 2713.7.
+request_275,15883984.86,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,Pay IDR 15884000 in full on 2025-05-06.
